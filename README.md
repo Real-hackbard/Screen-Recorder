@@ -68,7 +68,7 @@ screencast is a digital recording of computer screen output, also known as a vid
 </br>
 
 | at 1000 f/s (1 f/ms) by some codecs | Result | 
-| :------------ | :------------ |
+| :----------------- | :------------ |
 | [XviD v1.2.2 and DivX v6.8.5](https://en.wikipedia.org/wiki/Xvid) Codecs recording avrage 50 fps.     | (Fast Codec, Good Quality Image)     | 
 | [MSU Screen Capture Lossless](https://en.wikipedia.org/wiki/MSU_Lossless_Video_Codec) v1.02 recording avrage 18 fps.     | (Normal Codec, Best Quality Image)     |
 | [MS Video Codec](https://en.wikipedia.org/wiki/Microsoft_Video_1) 1 recording avrage 15 fps.     | (Normal Codec, Low Quality Image)     |
