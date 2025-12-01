@@ -39,18 +39,18 @@ screencast is a digital recording of computer screen output, also known as a vid
 * Adjust fps
 
 ### Video Effects:
-* Brightness
-* Contrast
+* [Brightness](https://en.wikipedia.org/wiki/Brightness)
+* [Contrast](https://en.wikipedia.org/wiki/Contrast_(vision))
 * Darkness
-* Saturation
-* Color Noise
-* Posterize
-* Adjust RGC Color
+* [Saturation](https://en.wikipedia.org/wiki/HSL_and_HSV)
+* [Color Noise](https://en.wikipedia.org/wiki/Colors_of_noise)
+* [Posterize](https://en.wikipedia.org/wiki/Posterization)
+* Adjust RGB Color
 * Screen Rotation
 * Screen Reverse
 * Grayscaling
 * Reverse Colors
-* Sepia Drawing
+* [Sepia Drawing](https://en.wikipedia.org/wiki/Sepia_(color))
 
 </br>
 
