@@ -1,4 +1,4 @@
-![ScrCam](https://github.com/user-attachments/assets/c6584e96-0329-4093-b2bb-7c3226a76237)# Screen-Recorder:
+# Screen-Recorder:
 
 </br>
 
