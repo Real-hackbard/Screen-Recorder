@@ -91,4 +91,4 @@ The program can record audio from a [microphone](https://en.wikipedia.org/wiki/M
 
 </br>
 
-
+To ensure data privacy when recording audio with Windows, you should check and adjust the microphone permissions in Windows settings under Privacy & Security > Microphone.
