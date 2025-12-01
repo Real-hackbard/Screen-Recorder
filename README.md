@@ -12,10 +12,45 @@
 
 screencast is a digital recording of computer screen output, also known as a video screen capture or a screen recording, often containing audio [narration](https://en.wikipedia.org/wiki/Narration). The term screencast compares with the related term screenshot; whereas [screenshot](https://en.wikipedia.org/wiki/Screenshot) generates a single picture of a computer screen, a screencast is essentially a movie of the changes over time that a user sees on a computer screen, that can be enhanced with audio narration and captions.
 
+</br>
 
+![Screen Recorder_Main](https://github.com/user-attachments/assets/7c6c968f-8622-4b70-8d53-9fadebfe16df)
 
+</br>
 
+# Features:
+Features:
+* Select Monitor Region
+  SelObject, FreeHand, FixedMoving, FixedStable, FullScreen
+* Multi Monitor Record
+* Adjust Region Record
+* Window Record
+* Capability Preview
+* Capability record with set timer
+* Capability recording type (NoCompress, CompressOnFly, CompressAfterRecord)
+* Color Mode
+* Video Priority
+* Create Overlay Logo Image
+* Create Overlay Message
+* Video Compressor Mode
+* Select Video Bitrate (Max 10000 Kbit/s)
+* Max Screen Resosution Res: 1920 x 1080
+* Audio Record
+* Adjust fps
 
+Video Effects:
+* Brightness
+* Contrast
+* Darkness
+* Saturation
+* Color Noise
+* Posterize
+* Adjust RGC Color
+* Screen Rotation
+* Screen Reverse
+* Grayscaling
+* Reverse Colors
+* Sepia Drawing
 
 
 
