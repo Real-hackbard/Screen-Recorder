@@ -55,7 +55,7 @@ screencast is a digital recording of computer screen output, also known as a vid
 </br>
 
 ### Tested in full screen mode (Res: 1920 x 1080) at a pc with:
-* Delphi Ver : Delphi / Pro./ 2ßß8/ 2009/ 2010
+* Delphi Ver : Delphi / 7 Pro./ 2008/ 2009/ 2010
 * OS     : Windows 10/11 x64 bit
 * CPU    : AMD3+ X4 64bit DualCore 4000+
 * RAM    : 8 GB - DualBus 1600
