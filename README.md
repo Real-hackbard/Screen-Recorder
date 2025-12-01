@@ -92,3 +92,19 @@ The program can record audio from a [microphone](https://en.wikipedia.org/wiki/M
 </br>
 
 To ensure data privacy when recording audio with Windows, you should check and adjust the microphone permissions in Windows settings under Privacy & Security > Microphone.
+
+# Overlay Logo & Messages:
+A video [overlay](https://en.wikipedia.org/wiki/Video_overlay) logo, often called a digital on-screen graphic , is a watermark-like graphic that television broadcasters and content creators overlay onto a portion of the video screen to identify the channel or brand.
+
+This technique serves as a permanent visual station identification, increasing brand recognition and asserting ownership of the video signal. The practice became common as technologies like digital video recorders (DVRs) allowed viewers to skip traditional commercials and station identification between programs, making a persistent on-screen logo necessary for continuous branding.
+
+For logo graphics to be painted transparently over the video, the background color must be white. The size of the image also determines the logo size in the video, as does the logo's position on the image. (see Picture)
+
+</br>
+
+![Logo](https://github.com/user-attachments/assets/fee83322-0640-4ab5-9395-82ced7656b4b)
+
+</br>
+
+The word "Logo" will be displayed in the bottom right corner.
+The image should be a bitmap to ensure good quality.
