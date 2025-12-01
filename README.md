@@ -85,7 +85,10 @@ screencast is a digital recording of computer screen output, also known as a vid
 # Audio record:
 Sound Recorder can record audio from a [microphone](https://en.wikipedia.org/wiki/Microphone) or [headset](https://en.wikipedia.org/wiki/Audio_headset). In addition, many modern sound cards allow their output channels to be recorded through a loopback channel, typically called "Wave-Out Mix" or "[Stereo Mix](https://en.wikipedia.org/wiki/Sound_card#Crippling_of_features)".
 
+</br>
 
+![Audio](https://github.com/user-attachments/assets/c0f24923-299c-4870-a809-d4467047cc61)
 
+</br>
 
 
