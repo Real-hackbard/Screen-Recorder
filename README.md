@@ -80,7 +80,10 @@ screencast is a digital recording of computer screen output, also known as a vid
 | [Cinepak Codec by Radius](https://en.wikipedia.org/wiki/Cinepak) recording avrage 10 fps.     | (Very Bad Codec)     |
 | [Windows Media Video 9](https://en.wikipedia.org/wiki/Windows_Media_Video) - VCM recording avrage 30 fps.     | (Normal Codec, Low Quality Image)     |
 
+</br>
 
+# Audio record:
+Sound Recorder can record audio from a [microphone](https://en.wikipedia.org/wiki/Microphone) or [headset](https://en.wikipedia.org/wiki/Audio_headset). In addition, many modern sound cards allow their output channels to be recorded through a loopback channel, typically called "Wave-Out Mix" or "[Stereo Mix](https://en.wikipedia.org/wiki/Sound_card#Crippling_of_features)".
 
 
 
