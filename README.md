@@ -106,5 +106,7 @@ For logo graphics to be painted transparently over the video, the background col
 
 </br>
 
-The word "Logo" will be displayed in the bottom right corner.
+The word "Logo" will be displayed in the bottom right corner.  
 The image should be a bitmap to ensure good quality.
+
+For practical guides on how to add a logo to a video using specific software, many resources are available, including tutorials for Microsoft Support or within specific software wikis like the [Kometa Wiki](https://kometa.wiki/en/latest/kometa/guides/overlays/).
