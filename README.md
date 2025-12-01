@@ -19,7 +19,7 @@ screencast is a digital recording of computer screen output, also known as a vid
 </br>
 
 # Features:
-Features:
+
 * Select Monitor Region
   SelObject, FreeHand, FixedMoving, FixedStable, FullScreen
 * Multi Monitor Record
@@ -38,7 +38,7 @@ Features:
 * Audio Record
 * Adjust fps
 
-Video Effects:
+### Video Effects:
 * Brightness
 * Contrast
 * Darkness
