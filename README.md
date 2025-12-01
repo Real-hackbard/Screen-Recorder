@@ -69,16 +69,16 @@ screencast is a digital recording of computer screen output, also known as a vid
 
 | at 1000 f/s (1 f/ms) by some codecs | Result | 
 | :------------ | :------------ |
-| XviD v1.2.2 and DivX v6.8.5 Codecs recording avrage 50 fps.     | (Fast Codec, Good Quality Image)     | 
-| MSU Screen Capture Lossless v1.02 recording avrage 18 fps.     | (Normal Codec, Best Quality Image)     |
-| MS Video Codec 1 recording avrage 15 fps.     | (Normal Codec, Low Quality Image)     |
-| Huffyuv v2.1.1 recording avrage 17 fps.     | (Normal Codec, Best Quality Image, Very Larg File)     |
-| Logarith lossless codec recording avrage 15 fps.     | (Normal Codec, Best Quality Image)     |
-| MS MPEG-4 VKI v1.0/2.0/3.0 recording avrage 40 fps.     | (Fast Codec, Low Quality Image)     |
-| ffvfw Mpeg-4 Codec Uncompressed recording avrage 15 fps.     | (Low Codec, Best Quality Image, Very Larg File)     |
-| Intel Indeo v4.5 recording avrage 20 fps.     |  (Bad Codec)     |
-| Cinepak Codec by Radius recording avrage 10 fps.     | (Very Bad Codec)     |
-| Windows Media Video 9 - VCM recording avrage 30 fps.     | (Normal Codec, Low Quality Image)     |
+| [XviD v1.2.2 and DivX v6.8.5](https://en.wikipedia.org/wiki/Xvid) Codecs recording avrage 50 fps.     | (Fast Codec, Good Quality Image)     | 
+| [MSU Screen Capture Lossless](https://en.wikipedia.org/wiki/MSU_Lossless_Video_Codec) v1.02 recording avrage 18 fps.     | (Normal Codec, Best Quality Image)     |
+| [MS Video Codec](https://en.wikipedia.org/wiki/Microsoft_Video_1) 1 recording avrage 15 fps.     | (Normal Codec, Low Quality Image)     |
+| [Huffyuv v2.1.1](https://de.wikipedia.org/wiki/HuffYUV) recording avrage 17 fps.     | (Normal Codec, Best Quality Image, Very Larg File)     |
+| [Logarith lossless codec](https://en.wikipedia.org/wiki/Lagarith) recording avrage 15 fps.     | (Normal Codec, Best Quality Image)     |
+| [MS MPEG-4 VKI](https://de.wikipedia.org/wiki/MPEG-4) v1.0/2.0/3.0 recording avrage 40 fps.     | (Fast Codec, Low Quality Image)     |
+| [ffvfw Mpeg-4 Codec](https://en.wikipedia.org/wiki/MPEG-4) Uncompressed recording avrage 15 fps.     | (Low Codec, Best Quality Image, Very Larg File)     |
+| [Intel Indeo v4.5](https://en.wikipedia.org/wiki/Indeo) recording avrage 20 fps.     |  (Bad Codec)     |
+| [Cinepak Codec by Radius](https://en.wikipedia.org/wiki/Cinepak) recording avrage 10 fps.     | (Very Bad Codec)     |
+| [Windows Media Video 9](https://en.wikipedia.org/wiki/Windows_Media_Video) - VCM recording avrage 30 fps.     | (Normal Codec, Low Quality Image)     |
 
 
 
